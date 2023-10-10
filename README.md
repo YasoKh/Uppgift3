@@ -16,6 +16,7 @@ De mest använda Remote Repositories involverar GitHub, GitLab och Bitbucket *(T
    - **git status:** Detta kommandon visar de filer som har ändrats eller raderas. Det ger oss en översikt över de förändringar vi har gjort, filer vi har lagt till eller tagit bort  (Teori och läsanvisningar om versionshantering, 2023; Atlassian, “Git Status: Inspecting a repository”).
 
 3. ##  Källförteckning:
-   - [Atlassian, “Setting up a repository”,] (https://www.atlassian.com/git/tutorials/setting-up-a-repository) 
+   - [Atlassian, “Setting up a repository”,] (https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+   - [Atlassian, “git init”,] (https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init )
 
 
