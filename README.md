@@ -6,7 +6,7 @@ Svar på frågor för del 1, 2023.
      
    - **Remote repository:** Det är en plats där vi kan dela våra lokala projekt med andra. Det är också ett digitalt lagringsutrymme på internet som lagrar historiken över de ändringar vi gör när vi arbetar på ett projekt. Historiken är väldigt viktig eftersom den visar oss alla steg i projektets utveckling.
 
-När man delar sitt projekt med andra får de möjlighet att samarbeta på det. 
+     När man delar sitt projekt med andra får de möjlighet att samarbeta på det. 
 De mest använda Remote Repositories involverar GitHub, GitLab och Bitbucket *(Teori och läsanvisningar om versionshantering, 2023)*.
 
 
